@@ -173,12 +173,4 @@ Annotation assistance disclosure:
 
 ## Demo Video
 
-Demo file/link: pending recording
-
-The demo should show:
-
-- 3-5 posts classified by the fine-tuned model.
-- Label and confidence visible.
-- One correct prediction explained.
-- One incorrect prediction explained.
-- Brief walkthrough of evaluation results.
+Demo file/link: https://www.loom.com/share/10a7024f5b8643bd993958deba44c706
