@@ -1,0 +1,7 @@
+﻿.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+outputs/*.tmp
+data_scouting.md
+data/labeled_posts_previous_provenance.csv

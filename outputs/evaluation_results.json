@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.8,
+  "finetuned_accuracy": 0.3667,
+  "improvement": -0.4333,
+  "test_set_size": 30,
+  "label_map": {
+    "discussion": 0,
+    "game_feedback": 1,
+    "reaction": 2
+  },
+  "model": "distilbert-base-uncased",
+  "baseline_model": "llama-3.3-70b-versatile"
+}
